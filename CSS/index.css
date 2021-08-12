@@ -1,0 +1,23 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.customNav {
+    background-color: white;
+}
+
+.linkText {
+    color: black;
+}
+
+.secondaryNav {
+    background-color: white;
+    color: black;
+    margin-right: 5%;
+}
+
+.headerText {
+    text-align: left;
+    
+}
